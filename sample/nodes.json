@@ -1,0 +1,6 @@
+{
+  "budget_error_code": "E_BAD_BUDGET",
+  "nodes_error_code": "E_BAD_NODES",
+  "budget": 3,
+  "nodes": [5, 1, 3, 3]
+}
